@@ -12,6 +12,7 @@ public class personDetails {
         System.out.println(person2.name ="Naman");
         System.out.println(person2.gender ='M');
         System.out.println(person2.age =27);
+
         System.out.println(person2.designation = "Senior QA Enginner");
         System.out.println(person2.projectName = "MC");
     }

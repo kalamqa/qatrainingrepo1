@@ -1,4 +1,9 @@
-package PACKAGE_NAME;
-
 public class bluePrint {
+
+     bluePrint(String a, int b) {
+
+    }
+
+    public void disp() {
+    }
 }
